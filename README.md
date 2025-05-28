@@ -1,0 +1,2 @@
+# LBP-GLZM-hybrid-model
+This project proposes a hybrid feature extraction framework that combines Local Binary Pattern (LBP) and Gray Level Zone Matrix (GLZM) for improved classification of mammogram patches. LBP is effective in capturing local micro-patterns in the image texture, while GLZM provides insights into zone-based intensity variations. Together, these methods complement each other, enabling the model to better differentiate between subtle texture changes that indicate malignancy or benignity.
